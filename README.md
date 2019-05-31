@@ -101,5 +101,5 @@ Generally speaking (very generally) if module has alot of stars and downloads on
 ### Testing (Very Quick)
 
 There are many `NPM` packages used for testing your code. This is so that we know that our code runs perfectly and covers all tests (edge cases for a given problem).
-We will be using (mocha)[https://mochajs.org/] for our testing.
+We will be using [mocha](https://mochajs.org/) for our testing.
 
