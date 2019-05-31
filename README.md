@@ -1,6 +1,6 @@
 ## W1D5 - APIs, Modules, and Testing
 
-### [Repo](git remote add origin git@github.com:vasiliy-klimkin/w1d5.git)
+[Repo](git remote add origin git@github.com:vasiliy-klimkin/w1d5.git)
 
 ### API's ( What are they)
 
